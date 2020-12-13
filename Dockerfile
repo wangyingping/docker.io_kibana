@@ -1,1 +1,1 @@
-FROM docker.io/library/kibana:7.9.2
+FROM docker.io/library/kibana:6.8.13
